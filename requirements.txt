@@ -168,7 +168,7 @@ python-multipart==0.0.9
 pytweening==1.2.0
 pytz==2024.1
 pywhatkit==5.4
-pywin32==306
+# pywin32==306
 pywinpty==2.0.12
 PyYAML==6.0.1
 pyzmq==25.1.1
