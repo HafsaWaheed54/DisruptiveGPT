@@ -156,7 +156,7 @@ PyMsgBox==1.0.9
 pypdf==4.3.0
 pyperclip==1.8.2
 PyPika==0.48.9
-pyproject_hooks==1.1.0
+# pyproject_hooks==1.1.0
 pyreadline3==3.4.1
 PyRect==0.2.0
 PyScreeze==0.1.30
